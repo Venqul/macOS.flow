@@ -1,17 +1,19 @@
-# 🎨 onsetGlaze
+# 🎨 macOS
 
-**onsetGlaze** is a theme for flow launcher with Acrylic/Glass effect customized to fit in with my [OnsetGlaze.nvim](https://github.com/abhidahal/OnsetGlaze.nvim) Colorscheme for nvim.
+**macOS** is a theme for Flow Launcher created to minic macOS Ventura Spotlight Search.
 
 ## 🖼️ Theme Dispaly
 
-<img src="https://user-images.githubusercontent.com/87414003/208306465-e40cbb55-beb5-4b04-a1fc-6296ee3c6e83.png" alt="" width="800">
+<img src="https://user-images.githubusercontent.com/16018709/216703984-6c9b354a-803e-47a8-b9d9-10d60802314f.png" alt="" width="800">
 
-<img src="https://user-images.githubusercontent.com/87414003/208306536-d6c59a88-c6e5-4cc3-a25e-a2a1b54e2867.png" alt="" width="800">
+<img src="https://user-images.githubusercontent.com/16018709/216703988-3c952230-45e8-45de-82b3-2abd9c9f73a2.png" alt="" width="800">
+
 
 ## 🪄 Features
 
-- Acrylic/Glass effect background.
-- Curved layout.
+- Transparent blurred background effect.
+- Rounded Edges.
+- Custom Search Icon to mimic macOS.
 
 ## ⚙️ Installation
 
@@ -19,9 +21,8 @@
 
 ```Shell
 cd ~/AppData/Roaming/FlowLauncher/Themes
-git clone git@github.com:abhidahal/onsetGlaze.flow.git .
+git clone git@github.com:cc46808/macOS.flow.git
 ```
+>Go to Flowlauncher Settings > Theme and select macOS as your theme.
 
->Go to Flowlauncher setting>Theme and select OnsetGlaze as your theme.
-
-<img src="https://user-images.githubusercontent.com/87414003/208308621-1c151998-c78f-4d08-9baa-5f52e2f4e1a7.png" alt="" width="800">
+<img src="https://user-images.githubusercontent.com/16018709/216703991-e38fb106-9d88-4cb9-8a79-9e42b500905d.png" alt="" width="800">
