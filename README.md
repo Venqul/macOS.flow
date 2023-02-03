@@ -8,7 +8,6 @@
 
 <img src="https://user-images.githubusercontent.com/16018709/216703988-3c952230-45e8-45de-82b3-2abd9c9f73a2.png" alt="" width="800">
 
-
 ## 🪄 Features
 
 - Transparent blurred background effect.
@@ -21,7 +20,7 @@
 
 ```Shell
 cd ~/AppData/Roaming/FlowLauncher/Themes
-git clone git@github.com:cc46808/macOS.flow.git
+curl -o macOS.xaml https://raw.githubusercontent.com/cc46808/macOS.flow/main/macOS.xaml
 ```
 >Go to Flowlauncher Settings > Theme and select macOS as your theme.
 
