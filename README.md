@@ -1,27 +1,25 @@
 # 🎨 macOS
 
 **macOS** is a theme for Flow Launcher created to minic macOS Ventura Spotlight Search.
+It uses your system's accent color for the theme
 
-## 🖼️ Theme Dispaly
+## 🖼️ Theme Dispalay
+![{53D95FB1-4E39-4FAC-9E9D-9CBD4AF368EC}](https://github.com/user-attachments/assets/38570e99-824c-4e8e-a140-ba10c31a3f5f)
 
-<img src="https://user-images.githubusercontent.com/16018709/216703984-6c9b354a-803e-47a8-b9d9-10d60802314f.png" alt="" width="800">
+<img src="ttps://github.com/user-attachments/assets/38570e99-824c-4e8e-a140-ba10c31a3f5f" alt="" width="800">
 
-<img src="https://user-images.githubusercontent.com/16018709/216703988-3c952230-45e8-45de-82b3-2abd9c9f73a2.png" alt="" width="800">
 
 ## 🪄 Features
 
 - Transparent blurred background effect.
 - Rounded Edges.
 - Custom Search Icon to mimic macOS.
+- Accent colored higlights
 
-## ⚙️ Installation
+## ⚙️ Installation in three easy steps
+Download the file
+-  Navigate to C:\Users\(your user)\AppData\Local\FlowLauncher.
+-  locate find and enter the app folder.
+-  locate and enter the theme folder, then paste in the macos theme.
 
->Use bash or powershell terminal.
-
-```Shell
-cd ~/AppData/Roaming/FlowLauncher/Themes
-curl -o macOS.xaml https://raw.githubusercontent.com/cc46808/macOS.flow/main/macOS.xaml
-```
->Go to Flowlauncher Settings > Theme and select macOS as your theme.
-
-<img src="https://user-images.githubusercontent.com/16018709/216703991-e38fb106-9d88-4cb9-8a79-9e42b500905d.png" alt="" width="800">
+>Go to Flowlauncher Settings > Theme and select macOS theme as your theme.
