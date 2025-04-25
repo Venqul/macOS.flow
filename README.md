@@ -4,9 +4,8 @@
 It uses your system's accent color for the theme
 
 ## 🖼️ Theme Dispalay
-![{53D95FB1-4E39-4FAC-9E9D-9CBD4AF368EC}](https://github.com/user-attachments/assets/38570e99-824c-4e8e-a140-ba10c31a3f5f)
 
-<img src="ttps://github.com/user-attachments/assets/38570e99-824c-4e8e-a140-ba10c31a3f5f" alt="" width="800">
+<img src="https://github.com/user-attachments/assets/38570e99-824c-4e8e-a140-ba10c31a3f5f" alt="" width="400">
 
 
 ## 🪄 Features
