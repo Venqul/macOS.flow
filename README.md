@@ -21,4 +21,9 @@ Download the file
 -  locate find and enter the app folder.
 -  locate and enter the theme folder, then paste in the macos theme.
 
+
+
+https://github.com/user-attachments/assets/994eb617-5e0d-4c0e-b0c5-8ee3be44a0e1
+
+
 >Go to Flowlauncher Settings > Theme and select macOS theme as your theme.
